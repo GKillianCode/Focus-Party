@@ -1,0 +1,5 @@
+{
+  "name": "Focus Party",
+  "description": "Un jeu interactif pour les fêtes où les invités doivent deviner l'image qui se dévoile progressivement.",
+  "requestFramePermissions": []
+}
